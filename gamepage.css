@@ -1,0 +1,6 @@
+// geração do valor aleatório
+
+// contagem de tentativas
+// até acerto    
+  
+// função para o número enviado pelo usuário
